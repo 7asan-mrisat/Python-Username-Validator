@@ -1,3 +1,6 @@
+### **2.0 Update : it will keep asking for username if its invalid till its a valid input**
+# *updated after i learnt about while loops and break*
+
 # Python Username Validator 🔒
 
 ### *A Simple Script for Enforcing Username Rules*
