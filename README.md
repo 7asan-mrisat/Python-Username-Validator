@@ -30,7 +30,6 @@ To run this script on your local machine, follow these simple steps:
     git clone https://github.com/7asan-mrisat/Python-Username-Validator
     cd username-rules.py
     ```
-    *(Remember to replace `YOUR_USERNAME` and `your-username-validator-repo-name` with your actual GitHub username and the name you give this repository!)*
 
 2.  **Execute the Python script:**
     ```bash
